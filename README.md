@@ -22,3 +22,11 @@ User writes Comment: a user can write a comment on a recipe.
 User rates Recipe: a user can rate a recipe on a scale (e.g. 1 to 5 stars).
 Recipe has Comment: a recipe can have one or more comments.
 Recipe has Rating: a recipe can have one or more ratings.
+
+
+
+
+
+
+Documentation 
+Spring Boot DataSource Bean : solve it by make tables name start by small letter and check the relationship betwen tables
